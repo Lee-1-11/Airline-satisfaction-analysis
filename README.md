@@ -33,7 +33,7 @@ dissatisfaction to support strategic business decisions.
 - Focus short haul service improvements to close the distance satisfaction gap
 
 ## Dashboard Preview
-*(Add screenshot here)*
+![Dashboard](airline_dashboard.png)
 
 ## SQL Queries
 All queries are available in the `queries.sql` file in this repository.
